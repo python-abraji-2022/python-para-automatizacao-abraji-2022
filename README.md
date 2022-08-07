@@ -21,7 +21,7 @@
 #### Como acessar o Colab?
 - Acessa a sua conta Google           
 - Abra o Drive (https://drive.google.com/corp/drive/u/0/my-drive)     
-- Clique em 'Novo' > 'Mais' > 'Google Colaboratory'       
+- Clique em ``'Novo' > 'Mais' > 'Google Colaboratory'``       
 - Pronto!       
 
 #### Por que usamos o Colab hoje?       
