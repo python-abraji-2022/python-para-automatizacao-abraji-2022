@@ -29,7 +29,7 @@
 - Não precisamos mexer com o Terminal         
 - Há menos chances de erro ou conflito        
 
-#### Notebooks da oficina
+#### Notebooks e ppt da oficina
 - [Primeiros passos (Andressa Freires)](https://github.com/python-abraji-2022/python-para-automatizacao-abraji-2022/blob/main/notebook-colab/Resuma%CC%83o_Python_Abraji.ipynb)       
 - [Introdução a HTML e CSS (Gabriela Caesar)](https://github.com/python-abraji-2022/python-para-automatizacao-abraji-2022/blob/main/ppt-html-css/html-e-css-o-basico-gabriela-caesar.pdf)           
 - [Primeira raspagem (Gabriela Caesar)](https://github.com/python-abraji-2022/python-para-automatizacao-abraji-2022/blob/main/notebook-colab/raspagem_site_ssp.ipynb)          
