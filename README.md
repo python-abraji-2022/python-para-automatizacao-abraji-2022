@@ -1,5 +1,8 @@
 ## Oficina de Python para automatização na Abraji 2022
 
+#### Como baixar todos os arquivos
+- [Neste link](https://github.com/python-abraji-2022/python-para-automatizacao-abraji-2022), clique em ``Code > Download ZIP``        
+
 #### Por que automatizar
 - Há tarefas chatas e manuais que podem ser agilizadas      
 - Algo repetitivo geralmente pode ser automatizado
@@ -28,5 +31,6 @@
 
 #### Notebooks da oficina
 - [Primeiros passos (Andressa Freires)](https://github.com/python-abraji-2022/python-para-automatizacao-abraji-2022/blob/main/notebook-colab/Resuma%CC%83o_Python_Abraji.ipynb)       
-- [Primeira raspagem (Gabriela Caesar)](https://github.com/python-abraji-2022/python-para-automatizacao-abraji-2022/blob/main/notebook-colab/raspagem_site_ssp.ipynb)           
+- [Introdução a HTML e CSS (Gabriela Caesar)](https://github.com/python-abraji-2022/python-para-automatizacao-abraji-2022/blob/main/ppt-html-css/html-e-css-o-basico-gabriela-caesar.pdf)           
+- [Primeira raspagem (Gabriela Caesar)](https://github.com/python-abraji-2022/python-para-automatizacao-abraji-2022/blob/main/notebook-colab/raspagem_site_ssp.ipynb)          
 - [Segunda raspagem (Geisson Silva)](https://github.com/python-abraji-2022/python-para-automatizacao-abraji-2022/blob/main/notebook-colab/caixaNotebook.ipynb)        
